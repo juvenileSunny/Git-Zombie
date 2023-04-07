@@ -1,4 +1,7 @@
-# Complete Unity Developer - Section 9 - Zombie Runner
+# Copied a repository from [Complete Unity Developer - Section 9 - Zombie Runner] to learn unity and git
+
+
+
 
 This is the [Complete Unity Developer](http://gdev.tv/cudgithub) - one of the most successful e-learning courses on the internet! Completely re-worked from scratch with brand-new projects and our latest teaching techniques. You will benefit from the fact we have already taught over 360,336 students game development, many shipping commercial games as a result.
 
