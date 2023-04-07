@@ -5,6 +5,7 @@ public class Eyes : MonoBehaviour {
 
 	private Camera eyes;
 	private float defaultFOV;
+	private float eyeMoveStabilizer = 1.5f;
 
 	// Use this for initialization
 	void Start () {
@@ -15,7 +16,7 @@ public class Eyes : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (Input.GetButton ("Zoom")) {
-			eyes.fieldOfView = defaultFOV / 1.5f;
+			eyes.fieldOfView = defaultFOV / eyeMoveStabilizer;
 		} else {
 			eyes.fieldOfView = defaultFOV;
 		}
