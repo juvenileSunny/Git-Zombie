@@ -207,3 +207,9 @@ Received Import Request.
   path: Assets/_Scenes/ZombieS.unity
   artifactKey: Guid(16c1edaf081874bf59f9806c9c528aa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/_Scenes/ZombieS.unity using Guid(16c1edaf081874bf59f9806c9c528aa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2da55a3246f3e57a074d988ce3d44d08') in 0.001612 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 296.728542 seconds.
+  path: Assets/_Scenes/ZombieS.unity
+  artifactKey: Guid(16c1edaf081874bf59f9806c9c528aa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scenes/ZombieS.unity using Guid(16c1edaf081874bf59f9806c9c528aa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f190d031a71be20ebe427fac427ebad8') in 0.002252 seconds 
